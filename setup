@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH=$PATH:/Users/palaitis/.local/bin
